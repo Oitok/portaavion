@@ -1,0 +1,10 @@
+.bg-custom {
+    background-color: #dfe317;
+  }
+  body {
+    font-family: 'Chakra Petch', sans-serif;
+    font-style: italic; /* Adicionando estilo itálico */
+}
+.btn-add-to-cart {
+  background-color: #dfe317;
+}
